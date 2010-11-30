@@ -1,7 +1,7 @@
 
 Ti.UI.setBackgroundColor('#000');
 
-var winaaaaaaaa = Ti.UI.createWindow();
+var win = Ti.UI.createWindow();
 var winMain = Ti.UI.createWindow({  
   backgroundColor:'#fff',
   title:'エヴァかめら'
